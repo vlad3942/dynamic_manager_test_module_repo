@@ -1,0 +1,6 @@
+id: first-module-0.0.1
+properties:
+  name: value1
+  name2: value2
+dependsOn:
+  - 'library-module-0.0.1'
