@@ -3,4 +3,4 @@ properties:
   name1: value1
   name2: value2
 dependsOn:
-  - 'library-module-0.0.1'
+  - 'library-module-0.0.2'
