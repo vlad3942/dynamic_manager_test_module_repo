@@ -6,8 +6,8 @@ import groovy.json.JsonBuilder
 
 http {
 
-    configuration('hi') {
-        port = 8085
+    configuration('') {
+        port = 8099
     }
 
     on get, "/authenticate/{clientId}", {
